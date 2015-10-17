@@ -3,6 +3,7 @@ layout: post
 title:  "OSX VIM with Python support"
 date:   2015-10-17 08:48:17
 categories: blog
+share: true
 ---
 
 Several months ago I spent way too long trying to figure out how to upgrade my Vim install from the default system 7.3 install to 7.4 in order to use new plugins. Hours later I gave up.
