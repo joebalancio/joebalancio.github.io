@@ -6,7 +6,6 @@ description: >
   I'm a software engineer. This is my professional blog.
 logo: site-logo.svg
 search: true
-url: http://localhost:4000
 
 # Jekyll configuration
 
