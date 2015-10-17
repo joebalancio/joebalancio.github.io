@@ -9,7 +9,6 @@ search: true
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
