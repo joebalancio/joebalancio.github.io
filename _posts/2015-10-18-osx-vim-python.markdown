@@ -2,7 +2,7 @@
 layout: post
 title:  "OSX VIM with Python support"
 date:   2015-10-17 08:48:17
-categories: blog
+categories: vim
 share: true
 ---
 
